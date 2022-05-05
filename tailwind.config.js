@@ -6,4 +6,7 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  variants: {
+    borderWidth: ["responsive", "hover", "focus", "last"],
+  },
 }
