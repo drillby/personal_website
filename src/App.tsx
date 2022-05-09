@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
-import Header from "./header/Header";
+import Header from "./components/header/Header";
 
 function App() {
 	return (
-		<div className="bg-neutral-800 text-green-600">
+		<div className=" text-green-600">
 			<Header></Header>
 		</div>
 	);

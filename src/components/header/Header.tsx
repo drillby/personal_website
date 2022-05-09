@@ -1,4 +1,4 @@
-import logo from "../icons/logo.svg";
+import logo from "../../icons/logo.svg";
 import TextContent from "./TextContent";
 
 const Header = () => {
